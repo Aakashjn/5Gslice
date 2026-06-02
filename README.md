@@ -431,38 +431,4 @@ The framework can be evaluated using:
 
 ---
 
-# 🔮 Future Enhancements
-
-* Kubernetes-Based Deployment
-* Real 5G Core Integration
-* Explainable AI Module
-* Blockchain Trust Management
-* Multi-Cloud Federated Learning
-* Threat Intelligence Sharing
-* Advanced SDN Orchestration
-* Edge Container Security
-
----
-
-# 👨‍💻 Project Team
-
-### SliceShield Development Team
-
-* Hemanth
-* Aakash
-* Nikhath
-* Sakhi
-
-**Department of Information Science and Engineering**
-
----
-
-# 📜 License
-
-This project is developed for academic and research purposes.
-
-Copyright © 2026 SliceShield Research Team.
-
----
-
 **SliceShield combines Edge AI, Federated Learning, SDN Automation, and AI-Powered Forensics to deliver a complete zero-trust security solution for next-generation 5G network slicing environments.** 
